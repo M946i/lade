@@ -4,6 +4,10 @@
 ```
 bash ./download.sh
 ```
+# Permission
+```
+chmod +x ./*
+```
 # FRP
 ```
 bash ./frp.sh
